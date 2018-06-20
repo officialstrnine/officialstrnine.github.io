@@ -1,0 +1,23 @@
+body {
+    background-image: url(indexbackground.jpg);
+    background-size: cover;
+}
+
+.title {
+    font-family: Dosis;
+    font-size: 80px;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 540px;
+}
+
+.flex-container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
